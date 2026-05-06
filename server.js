@@ -51,4 +51,4 @@ app.post("/v1/messages", async (req, res) => {
   });
 });
 
-app.listen(8080, () => console.log("Gemini Proxy running on port 8080"));
+app.listen(8080, () => console.log("Gemini Proxy running on port 8080")); 
